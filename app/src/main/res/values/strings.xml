@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">ConvertorJPEGtoPNG</string>
+    <string name="convertation_jpeg_to_png">convertation JPEG to PNG</string>
+    <string name="wait">wait</string>
+    <string name="loadfile">load file</string>
+    <string name="stop">stop</string>
+</resources>

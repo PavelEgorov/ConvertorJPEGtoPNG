@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="convertation_jpeg_to_png">Конвертировать из JPEG в PNG</string>
+    <string name="wait">подождите</string>
+    <string name="loadfile">загрузате файл</string>
+    <string name="stop">остановить</string>
+</resources>
